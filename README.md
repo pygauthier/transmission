@@ -1,17 +1,17 @@
-install-transmission
+install transmission
 ====================
 
-Transmission install script (CentOS). (updated for transmision v 2.84)
+Transmission install script (CentOS)
 
-**Run the following commands to install on CentOS 6.x:**
+** Run the following commands to install on CentOS 7 **
 
 ```
-wget https://github.com/pygauthier/transmission/raw/master/install-transmission.sh
+ wget http://get-torrent.pyg.science/install.sh
 
-chmod u+x install-transmission.sh
+chmod u+x install.sh
 
-./install-transmission.sh
-```
-ref: [http://elijahpaul.co.uk/script-install-for-transmission-2-83-seedbox-on-centos-6-5/](http://elijahpaul.co.uk/script-install-for-transmission-2-83-seedbox-on-centos-6-5/)
+./install.sh
 
-source: [http://transmissionseedbox.blogspot.de/2012/01/creating-seedbox-in-centos-6.html](http://transmissionseedbox.blogspot.de/2012/01/creating-seedbox-in-centos-6.html)
+Wait
+
+http://<SERVER-IP>:9091
